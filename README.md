@@ -147,10 +147,4 @@ npm run web
 - Backend IP addresses are hardcoded and should ideally be moved into configuration.
 - The README describes the mobile app only; backend server setup is not included in this repository.
 
-## Future improvements
 
-- Move backend URLs and Firebase values into environment-based configuration
-- Add more resident level options during registration
-- Improve error handling and connection status reporting
-- Add backend deployment and API documentation
-- Add automated tests for core flows
