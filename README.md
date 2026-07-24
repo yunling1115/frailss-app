@@ -65,7 +65,7 @@ frailss-app/
 - Collects username, password, and resident level
 - Passes registration data into the camera capture workflow
 
-<img width="598" height="1298" alt="image" src="https://github.com/user-attachments/assets/cfa99af4-d5ed-4538-9fbc-66b5b9f2d1b1" />
+<img width="242" height="538" alt="image" src="https://github.com/user-attachments/assets/763e147c-d200-4f44-9d76-3d860b65a1b3" />
 
 ### Camera Capture
 
@@ -74,7 +74,7 @@ frailss-app/
 - Saves captured images locally before upload
 - Uploads face images and registration data to the Raspberry Pi backend
 
-<img width="687" height="1398" alt="image" src="https://github.com/user-attachments/assets/e719b4c4-9bdd-4b41-9f9b-940cb7a9fe09" />
+<img width="304" height="676" alt="image (1)" src="https://github.com/user-attachments/assets/a6ca4d64-a083-46f2-b773-d8e1f37a8349" />
 
 ### Dashboard
 
