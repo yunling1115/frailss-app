@@ -55,10 +55,17 @@ frailss-app/
 - Compares the entered password against the stored hashed password using `bcryptjs`
 - Navigates to the dashboard with the resident username and level
 
+<img width="707" height="1564" alt="image" src="https://github.com/user-attachments/assets/2b8c2b9f-7a0a-4a30-be59-704db1e3027f" />
+<img width="706" height="1564" alt="image" src="https://github.com/user-attachments/assets/09187eb9-066a-4827-a6ab-6cdf69cc6767" />
+<img width="707" height="1564" alt="image" src="https://github.com/user-attachments/assets/d4adccd1-0439-4e52-bc07-a15603067e20" />
+
+
 ### Register
 
 - Collects username, password, and resident level
 - Passes registration data into the camera capture workflow
+
+<img width="598" height="1298" alt="image" src="https://github.com/user-attachments/assets/cfa99af4-d5ed-4538-9fbc-66b5b9f2d1b1" />
 
 ### Camera Capture
 
@@ -67,11 +74,15 @@ frailss-app/
 - Saves captured images locally before upload
 - Uploads face images and registration data to the Raspberry Pi backend
 
+<img width="687" height="1398" alt="image" src="https://github.com/user-attachments/assets/e719b4c4-9bdd-4b41-9f9b-940cb7a9fe09" />
+
 ### Dashboard
 
 - Displays resident information
 - Shows the floors the user can access
 - Sends floor selection commands to the lift control API
+
+<img width="707" height="1564" alt="image" src="https://github.com/user-attachments/assets/ff486bbb-3230-4548-8aab-ab7f923e28e4" />
 
 ## Backend dependencies
 
